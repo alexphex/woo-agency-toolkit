@@ -53,8 +53,8 @@ function wat_init(): void {
     }
 
     new WAT_Product_Fields();
-    //new WAT_Checkout_Fields();
-    //new WAT_Order_Columns();
-    //new WAT_Order_Email();
+    new WAT_Checkout_Fields();
+    new WAT_Order_Columns();
+    new WAT_Order_Email();
 }
 add_action( 'plugins_loaded', 'wat_init' );
