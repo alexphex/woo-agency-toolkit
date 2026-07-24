@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Woo Agency Toolkit
- * Plugin URI:  https://github.com/YOUR_USERNAME/woo-agency-toolkit
+ * Plugin URI:  https://github.com/alexphex/woo-agency-toolkit
  * Description: WooCommerce extensions for agency projects — custom product fields, checkout fields, order columns and email customization.
  * Version:     1.0.0
  * Author:      alex_dev
